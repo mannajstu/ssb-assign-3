@@ -154,11 +154,13 @@ footer ul li {
 }
 
 .social-links ul li {
-    color: white;
+    color: #626262;
     font-weight: bolder;
-    background: green;
-    border-radius: 20px;
+
     text-align: center;
-    padding: 6px 12px;
+    padding: 4px 9px;
+    font-style: oblique;
+    background-color: #d4c9c9;
+    border-radius: 7px;
 
 }
